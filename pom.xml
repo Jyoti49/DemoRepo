@@ -1,92 +1,135 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>restAssured_Assesment</groupId>
-  <artifactId>restAssured_Assesment</artifactId>
+  <groupId>FunctionaAautomation.exercise</groupId>
+  <artifactId>FunctionaAautomation.exercise</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>restAssured_Assesment</name>
-  <description>restAssured_Assesment</description>
-  
-  
-  
-  
+  <name>FunctionaAautomation.exercise</name>
+  <description>FunctionaAautomation.exercise</description>
   
   <build>
-        <pluginManagement>
-            <plugins>
+		<pluginManagement>
+			<plugins>
 
 
-                <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-compiler-plugin</artifactId>
-                    <configuration>
-                        <source>1.8</source>
-                        <target>1.8</target>
-                    </configuration>
-                </plugin>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-compiler-plugin</artifactId>
+					<configuration>
+						<source>1.8</source>
+						<target>1.8</target>
+					</configuration>
+				</plugin>
 
-                <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-surefire-plugin</artifactId>
-                    <version>3.0.0-M5</version>
-                    <configuration>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-surefire-plugin</artifactId>
+					<version>3.0.0-M5</version>
+					<configuration>
 
-                        <suiteXmlFiles>
-                            <!--<suiteXmlFile>testng_ddt.xml</suiteXmlFile>-->
-                            <!--<suiteXmlFile>testng_logExample.xml</suiteXmlFile>-->
-                            <suiteXmlFile>testng_log.xml</suiteXmlFile>
-
-
-                        </suiteXmlFiles>
-
-                    </configuration>
+						<suiteXmlFiles>
+							<!--<suiteXmlFile>testng_ddt.xml</suiteXmlFile>-->
+							<!--<suiteXmlFile>testng_logExample.xml</suiteXmlFile>-->
+							<suiteXmlFile>testng.xml</suiteXmlFile>
 
 
-                </plugin>
-            </plugins>
-        </pluginManagement>
-    </build>
+						</suiteXmlFiles>
+
+					</configuration>
 
 
+				</plugin>
+			</plugins>
+		</pluginManagement>
+	</build>
+	
   
-  
-  
-    <dependencies>
+   <dependencies>
 
-        <!-- https://mvnrepository.com/artifact/org.testng/testng -->
-        <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>7.7.0</version>
-            <scope>test</scope>
-        </dependency>
 
-        <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
-        <dependency>
-            <groupId>io.rest-assured</groupId>
-            <artifactId>rest-assured</artifactId>
-            <version>5.4.0</version>
-            <scope>test</scope>
-        </dependency>
+		  
+		  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+	<dependency>
+	    <groupId>org.seleniumhq.selenium</groupId>
+	    <artifactId>selenium-java</artifactId>
+	    <version>4.18.1</version>
+	</dependency>
 
-<!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest -->
+		  
+		  <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
+	<dependency>
+	    <groupId>commons-io</groupId>
+	    <artifactId>commons-io</artifactId>
+	    <version>2.15.1</version>
+	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/dom4j/dom4j -->
+	<dependency>
+	    <groupId>dom4j</groupId>
+	    <artifactId>dom4j</artifactId>
+	    <version>1.6.1</version>
+	</dependency>
+	
+		<!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
+	<dependency>
+	    <groupId>com.aventstack</groupId>
+	    <artifactId>extentreports</artifactId>
+	    <version>5.1.1</version>
+	</dependency>
+
+
+	
+	<!-- https://mvnrepository.com/artifact/log4j/log4j -->
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
+	
+
+	
+	<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
+	<dependency>
+	    <groupId>commons-io</groupId>
+	    <artifactId>commons-io</artifactId>
+	    <version>2.15.1</version>
+	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
-    <groupId>org.hamcrest</groupId>
-    <artifactId>hamcrest</artifactId>
-    <version>2.2</version>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.9.0</version>
     <scope>test</scope>
 </dependency>
 
+<!-- https://mvnrepository.com/artifact/com.relevantcodes/extentreports -->
+<dependency>
+    <groupId>com.relevantcodes</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>2.41.2</version>
+</dependency>
+<!--  
+
+   	<dependency>
+   		<groupId>CucumberProject</groupId>
+   		<artifactId>CucumberProject</artifactId>
+   		<version>0.0.1-SNAPSHOT</version>
+   	</dependency>
+   	
+   	<dependency>
+		   
+		 
+   		<groupId>helloworld_jyoti</groupId>
+   		<artifactId>helloworld_jyoti</artifactId>
+   		<version>0.0.1-SNAPSHOT</version>
+   	</dependency> -->
 
 
-    </dependencies>
-  
-  
-  
-  
-  
-  
-  
-  
-  
+   	<dependency>
+   		<groupId>com.selenium.cucucmber</groupId>
+   		<artifactId>com.selenium.cucucmber</artifactId>
+   		<version>0.0.1-SNAPSHOT</version>
+   	</dependency>
+   </dependencies>
   
 </project>

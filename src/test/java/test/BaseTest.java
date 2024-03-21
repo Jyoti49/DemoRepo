@@ -71,8 +71,8 @@ public class BaseTest {
     	 log.info("closing an application");
         
         Thread.sleep(7000);
-        //driver.close();
-        //driver.quit();
+        driver.close();
+        driver.quit();
     }
     
     

@@ -3,11 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="restAssured_Assesment.API_Post">
+      <class name="Assignment_2.selenium_Test2">
         <methods>
-          <include name="testLoggingRequestDetails"/>
+          <include name="verifyTitle"/>
+          <include name="launchApp"/>
+          <include name="CloseApp"/>
         </methods>
-      </class> <!-- restAssured_Assesment.API_Post -->
+      </class> <!-- Assignment_2.selenium_Test2 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -18,26 +18,23 @@ public class LoginTest extends BaseTest {
         
         lp.verifyApplicationTitle("Dashboard / nopCommerce administration");
         //lp.clickLogout();
-        //lp.verifyApplicationTitle("Your store. Login");
-        
+        lp.verifyApplicationTitle("Your store. Login");
+        lp.clickFirstCust();
+        lp.clickSecondCust();
+        lp.verifyHomePage(null);
+          
     }
         
-      /*  
-    
+      
+  /*  
     @Test
-    public void verifyLoginFeature() throws Exception {
+    public void verifyHome() throws Exception 
+    {
         
-    
+      lp.clickFirstCust();
+      lp.clickSecondCust();
+      lp.verifyHomePage(null);
         
-        lp.enterEmail("admin@yourstore.com");
-        lp.enterpass("admin");
-        lp.clickRememberMeCheckbox();
-        lp.clickLogin();
-        
-        
-        lp.verifyApplicationTitle("Dashboard / nopCommerce administration");
-        lp.clickLogout();
-        lp.verifyApplicationTitle("Your store. Login");
         
 
         

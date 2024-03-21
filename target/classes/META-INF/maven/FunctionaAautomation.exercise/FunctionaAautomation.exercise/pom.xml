@@ -123,8 +123,13 @@
    		<artifactId>helloworld_jyoti</artifactId>
    		<version>0.0.1-SNAPSHOT</version>
    	</dependency> -->
-   	
-   	
+
+
+   	<dependency>
+   		<groupId>com.selenium.cucucmber</groupId>
+   		<artifactId>com.selenium.cucucmber</artifactId>
+   		<version>0.0.1-SNAPSHOT</version>
+   	</dependency>
    </dependencies>
   
 </project>

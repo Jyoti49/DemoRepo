@@ -1,0 +1,121 @@
+2024-03-20 22:12:37,644 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 22:12:37,648 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 22:12:37,649 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 22:12:37,649 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 22:12:47,815 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 22:12:56,620 [main] INFO NOP Comm Application - closing an application
+2024-03-20 22:15:16,271 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 22:15:16,275 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 22:15:16,277 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 22:15:16,277 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 22:15:22,392 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 22:15:30,645 [main] INFO NOP Comm Application - closing an application
+2024-03-20 22:44:36,753 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 22:44:36,760 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 22:44:36,760 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 22:44:36,761 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 22:44:42,841 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 22:44:42,919 [main] INFO NOP Comm Application - closing an application
+2024-03-20 22:45:34,410 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 22:45:34,417 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 22:45:34,417 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 22:45:34,418 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 22:45:40,577 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 22:45:40,641 [main] INFO NOP Comm Application - closing an application
+2024-03-20 23:09:34,802 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:09:34,806 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:09:34,807 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:09:34,807 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:09:42,176 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:10:02,331 [main] INFO NOP Comm Application - closing an application
+2024-03-20 23:10:44,391 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:10:44,395 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:10:44,396 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:10:44,396 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:10:50,268 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:12:50,425 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:12:50,429 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:12:50,430 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:12:50,430 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:13:00,318 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:16:41,757 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:16:41,763 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:16:41,763 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:16:41,764 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:16:48,217 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:16:48,494 [main] INFO NOP Comm Application - closing an application
+2024-03-20 23:17:53,572 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:17:53,578 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:17:53,578 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:17:53,578 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:17:59,618 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:18:01,696 [main] INFO NOP Comm Application - closing an application
+2024-03-20 23:18:40,813 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:18:40,818 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:18:40,819 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:18:40,819 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:18:46,862 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:18:55,296 [main] INFO NOP Comm Application - closing an application
+2024-03-20 23:22:47,514 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:22:47,519 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:22:47,519 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:22:47,519 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:22:53,507 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:22:55,568 [main] INFO NOP Comm Application - closing an application
+2024-03-20 23:24:26,770 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:24:26,774 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:24:26,775 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:24:26,775 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:24:32,961 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:24:35,061 [main] INFO NOP Comm Application - closing an application
+2024-03-20 23:28:54,190 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:28:54,193 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:28:54,193 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:28:54,193 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:29:00,230 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:30:26,964 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:30:26,969 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:30:26,970 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:30:26,971 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:30:33,133 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:31:12,746 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:31:12,751 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:31:12,752 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:31:12,752 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:31:18,948 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:31:56,004 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:31:56,009 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:31:56,009 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:31:56,010 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:32:01,282 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:32:39,035 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:32:39,040 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:32:39,040 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:32:39,041 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:32:44,439 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:34:36,521 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:34:36,525 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:34:36,525 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:34:36,526 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:34:42,482 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:38:16,807 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:38:16,811 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:38:16,811 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:38:16,812 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:38:22,884 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:38:38,614 [main] INFO NOP Comm Application - closing an application
+2024-03-20 23:41:35,472 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:41:35,476 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:41:35,477 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:41:35,477 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:41:41,465 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:43:42,690 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:43:42,696 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:43:42,696 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:43:42,697 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:43:48,627 [main] INFO NOP Comm Application - application launched sucessfully.
+2024-03-20 23:44:46,088 [main] INFO NOP Comm Application - ===============info=======================
+2024-03-20 23:44:46,094 [main] WARN NOP Comm Application - ===============warn=======================
+2024-03-20 23:44:46,094 [main] ERROR NOP Comm Application - ===============error=======================
+2024-03-20 23:44:46,095 [main] INFO NOP Comm Application - launching a chrome browser
+2024-03-20 23:44:51,994 [main] INFO NOP Comm Application - application launched sucessfully.
